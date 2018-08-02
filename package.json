@@ -1,0 +1,26 @@
+{
+  "name": "CordovaLocate",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "AndroidLocate",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CESCIT/Cordova-locate.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
