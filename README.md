@@ -24,7 +24,7 @@ http://lbs.amap.com/dev/key/app
 
 
 2安装插件
-cordova plugin add https://github.com/matrix-yang/cordovalocate.git
+cordova plugin add https://github.com/CESCIT/Cordova-locate.git
 
 如图修改androidManifest,xml在其中application标签下加入一行
 <meta-data	android:name="com.amap.api.v2.apikey" android:value="你申请到的key" />
